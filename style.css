@@ -1,0 +1,43 @@
+body {
+  font-family: Arial;
+  text-align: center;
+
+
+  background-color: #f0f0f0;
+
+
+}
+
+h1 {
+  color: darkblue;
+}
+
+
+
+
+ul {
+  list-style: none;
+  padding: 0;
+
+
+
+}
+
+
+
+li {
+  background: white;
+  margin: 5px auto;
+
+
+  width: 200px;
+  padding: 5px;
+
+
+
+  border: 1px solid #ccc;
+}
+img {
+  width: 250px;
+  border-radius: 10px;
+}
